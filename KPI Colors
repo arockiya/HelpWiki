@@ -15,14 +15,14 @@ Color 4: RGB(215, 21, 93)   | Hex: #D7155D
 
 Traffic Light Set - 1 (Light colors)
 
-Color 1: Red  : RGB() | Hex: #ff4444
-Color 2: Amber: RGB() | Hex: #ffbb33
-Color 3: Green: RGB() | Hex: #00C851
-Color 4: Blue : RGB() | Hex: #33b5e5
+Color 1: Red  : RGB(255, 68, 68)  | Hex: #ff4444
+Color 2: Amber: RGB(255, 187, 51) | Hex: #ffbb33
+Color 3: Green: RGB(0, 200, 81)   | Hex: #00C851
+Color 4: Blue : RGB(51, 181, 229) | Hex: #33b5e5
 
 Traffic Light Set - 1 (Dark colors)
 
-Color 1: Red  : RGB() | Hex: #CC0000
-Color 2: Amber: RGB() | Hex: #ff8800
-Color 3: Green: RGB() | Hex: #007e33
-Color 4: Blue : RGB() | Hex: #0099cc
+Color 1: Red  : RGB(204, 0, 0)    | Hex: #CC0000
+Color 2: Amber: RGB(255, 136, 0)  | Hex: #ff8800
+Color 3: Green: RGB(0, 126, 51)   | Hex: #007e33
+Color 4: Blue : RGB(0, 153, 204)  | Hex: #0099cc
